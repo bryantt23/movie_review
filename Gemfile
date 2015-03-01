@@ -44,4 +44,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', '~> 3.4.1'
+gem 'paperclip', '~> 3.4.2'
+# gem 'paperclip', '~> 3.0'
 
