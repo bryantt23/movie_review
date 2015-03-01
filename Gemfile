@@ -48,4 +48,4 @@ gem 'paperclip', '~> 3.4.2'
 # gem 'paperclip', '~> 3.0'
 
 gem 'bootstrap-sass', '~> 3.3.3'
-
+gem 'searchkick', '~> 0.8.7'
